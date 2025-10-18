@@ -1,3 +1,5 @@
+pip install colorama
+
 import time
 import random
 import sys
@@ -230,3 +232,4 @@ Choose an option:
 
 if __name__ == "__main__":
     main_menu()
+
